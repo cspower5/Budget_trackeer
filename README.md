@@ -44,7 +44,7 @@ chris.borer@gmail.com
   MIT 
   (https://opensource.org/licenses/MIT)
 ## Installation
-- Navigate to 
+- Navigate to https://cspower5.github.io/Budget_trackeer/
 - Click the 'code' button and download the zip file.
 - Unzip the file on your computer.
 ## Usage
@@ -58,9 +58,8 @@ Then run 'npm install' and you will need to create your own .env file to hook it
 ## Issues
   contact contributors
 ## Links
-    screen shot video
-* Video Screen shot: https://drive.google.com/file/d/1rgT9XslKckIsbHJ-J20H1Nqlwulo_UTl/view
-    
- git hub
-* GitHub: https://github.com/cspower5/content_management_systems
-* GitHub: https://cspower5.github.io/content_management_systems/
+git hub
+* GitHub: https://github.com/cspower5/Budget_trackeer
+* Github: https://cspower5.github.io/Budget_trackeer/
+heroku
+* Heroku: https://evening-peak-68476.herokuapp.com/
